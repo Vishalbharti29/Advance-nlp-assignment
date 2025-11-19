@@ -1,0 +1,4 @@
+Model,Accuracy,Macro-F1,Latency (ms/example)
+BASELINE,0.9275,0.8857,148.5134
+PTQ,0.2905,0.075,101.6718
+QAT,0.9285,0.8838,160.9198
